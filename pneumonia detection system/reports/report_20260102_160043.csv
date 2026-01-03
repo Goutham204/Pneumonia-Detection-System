@@ -1,0 +1,9 @@
+image_name,model_version,patient_id,prediction,timestamp,confidence
+Patient_001.jpg,1.0,37e15b48-79a7-4d30-8e57-7f86ee4441b7,Normal,2026-01-02 16:00:33,0.63
+Patient_002.jpeg,1.0,48a2f382-ccaa-4f4c-9647-7f7896792915,Pneumonia,2026-01-02 16:00:33,0.63
+Patient_001.jpg,1.0,ba5ab7d6-77b0-4cc0-b6cf-d29e89185d5c,Normal,2026-01-02 16:01:54,0.63
+Patient_002.jpeg,1.0,1f32ad0c-e2eb-4a0c-8459-f99ee4914799,Pneumonia,2026-01-02 16:01:54,0.63
+IM-0289-0001.jpeg,1.0,11846930-b877-4fc9-adff-bf67e362bc0b,Normal,2026-01-02 16:02:39,1.0
+person38_bacteria_196.jpeg,1.0,4fb3ce03-47cc-42d3-8fb7-9b8f0edd2f0f,Normal,2026-01-02 16:07:47,0.58
+person5_bacteria_15.jpeg,1.0,3f69ce83-1191-47eb-83c1-e9366bd0f431,Normal,2026-01-02 16:08:55,0.73
+person23_bacteria_97.jpeg,1.0,c223d391-d382-47fe-b50d-6186e5fd73c9,Pneumonia,2026-01-02 21:33:14,0.85
